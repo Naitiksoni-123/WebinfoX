@@ -140,7 +140,6 @@ If you like this project:
 * Parameter Finder
 * API Endpoint Hunter
 * Advanced JS Secret Scanner
-* GUI Version
 
 ---
 
